@@ -1,1 +1,1 @@
-# Web Programming Exrecises
+# Web Programming Exercises
